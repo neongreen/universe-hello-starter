@@ -1,1 +1,4 @@
 project_id = "eslkbnvcqbnabeemzzod"
+
+[functions.fetch-url-title]
+verify_jwt = false
